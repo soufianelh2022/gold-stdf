@@ -21,7 +21,7 @@
   "Maxopen":"1cfc47d298eb65b9",
   
   "PriorityBanner":"max",
-  "PriorityNative":"yadex",
+  "PriorityNative":"yandex",
   "PriorityReward":"max",
   "PriorityOpen":"yandex",
   "priorityInterstitial":"yandex"
