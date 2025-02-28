@@ -1,7 +1,7 @@
 {"ads":{
   
   "ShowAds":true,
-  "ClickCount":3,
+  "ClickCount":0,
    "ShowLoadingAds":true,
 
 "showpop":false,
