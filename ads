@@ -8,10 +8,10 @@
   
 
   
-  "openadyandex":"demo-appopenad-yandex",
-  "yandex_inter":"demo-interstitial-yandex",
-  "yandex_banner":"demo-banner-yandex",
-  "yandex_native":"demo-native-app-yandex",
+  "openadyandex":"R-M-14353145-4",
+  "yandex_inter":"R-M-14353145-3",
+  "yandex_banner":"R-M-14353145-1",
+  "yandex_native":"R-M-14353145-2",
   "yandex_reward":"demo-rewarded-yandex",
   
   "MaxBanner": "020de432bb80579b",
@@ -20,9 +20,9 @@
   "MaxReward":"934dec764ec5257a",
   "Maxopen":"1cfc47d298eb65b9",
   
-  "PriorityBanner":"max",
+  "PriorityBanner":"yandex",
   "PriorityNative":"yandex",
-  "PriorityReward":"max",
+  "PriorityReward":"yandex",
   "PriorityOpen":"yandex",
   "priorityInterstitial":"yandex"
  
